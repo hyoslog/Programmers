@@ -18,7 +18,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="기사단원의_무기.cpp">
+    <ClCompile Include="Lv.1\추억_점수.cpp">
+      <Filter>소스 파일\Lv.1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lv.1\기사단원의_무기.cpp">
       <Filter>소스 파일\Lv.1</Filter>
     </ClCompile>
   </ItemGroup>
